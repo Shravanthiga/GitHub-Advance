@@ -67,7 +67,7 @@ code .
 
 ## Running the Scripts
 
-The scripts inside this repo will populate your git log to set up your local repository for the exercises. Run the scripts in your editor terminal when instructed during the workshop.
+The scripts inside this repo will populate your git log to set up your local repository for the exercises. Run the scripts in your editor terminal **🚨🗣️ONLY WHEN YOU ARE INSTRUCTED🗣️🚨.**
 
 **For macOS/Linux:**
 ```bash
